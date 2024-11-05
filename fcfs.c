@@ -10,7 +10,7 @@ struct process_control_block
 
 void main()
 {
-    int i, j, n;
+    int i, n;
     int start_time[10], completion_time[10];
     float total_wt = 0, total_tat = 0;
 
